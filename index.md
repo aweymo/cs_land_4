@@ -284,13 +284,14 @@ page_sections:
   media_alignment: Left
   headline: <strong><span class="light">Findings and Resources</span></strong>
   slug: f&r
-  content: <a href="https://aweymo.github.io/CS.2/findings.html" title="Findings">Click
-    here</a> for a term frequency visualization as well as a full list of early and
-    later period text mining visualizations for each community group.<br><br>For a
-    full list of the 500+ text mining resources, <a href="https://aweymo.github.io/uploads/uploads/2022/full-list-of-resources.pdf"
-    title="Full List">click here</a><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062"
-    title="&quot;A Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration,
-    R.H. Case, 1915/03/31</a>
+  content: <br><a href="https://aweymo.github.io/CS.2/findings.html" title="visit
+    here">Visit here</a> for a term frequency visualization as well as a full list
+    of early and later period text mining visualizations for each community group<br><br><a
+    href="https://aweymo.github.io/uploads/uploads/2022/full-list-of-resources.pdf"
+    title="Full List">Visit here</a> for a full list of the 500+ text mining resources<br><br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062" title="&quot;A
+    Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration, R.H. Case,
+    1915/03/31</a>
   media:
     image: "/uploads/uploads/2022/page-0001.png"
     alt_text: ''
@@ -298,7 +299,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/ten_12011903_b.png"
   headline: <strong><span class="light">Future<br>Research</span></strong>
-  content: In pursuing this project, I felt it was most important to focus on the
+  content: <br>Pursuing this project, I felt it was most important to focus on the
     lived experience of community members who may have been impacted by this language,
     so I spent a good time vetting, transcribing and hosting the oral history material.
     I would love to spend more time focusing on industrialists during this period
@@ -329,9 +330,9 @@ page_sections:
     alt_text: ''
   headline: "<strong>Acknowledgements</strong>"
   slug: Acknowledgements
-  content: I would like to thank Anna Trammell, Spencer Bowman and Ilona Perry at
-    the Northwest Room for being incredibly generous with their time and effort in
-    supporting this project. I would also like to thank Kate Thornhill at the University
+  content: <br>I would like to thank Anna Trammell, Spencer Bowman and Ilona Perry
+    at the Northwest Room for being incredibly generous with their time and effort
+    in supporting this project. I would also like to thank Kate Thornhill at the University
     of Oregon for advice on shaping and hosting this work.<br><br>I have a huge debt
     of gratitude to Olivia Winkle and Devin Becker at the University of Idaho for
     helping guide me through the process of working with CollectionBuilder (and creating
@@ -347,8 +348,8 @@ page_sections:
   media_alignment: Right
   headline: <strong><span class="light">Endnotes</span></strong>
   slug: Endnotes
-  content: '<span class="s1">1</span> “Victory to Mean Blow to Industry. Repeal of
-    Tolls - Oregonian (Published as Morning Oregonian) - April 1, 1914 - Page 2,”
+  content: '<span class="s1"><br>1</span> “Victory to Mean Blow to Industry. Repeal
+    of Tolls - Oregonian (Published as Morning Oregonian) - April 1, 1914 - Page 2,”
     n.d., 1.<br><br><span class="s1">2</span> “Characteristics of Chinese Laborers
     - Oregonian (Published as Morning Oregonian.) - September 14, 1899 - Page 4,”
     n.d., 1.<br><br><span class="s1">3</span> “White Supremacy and the Alien Land
@@ -388,8 +389,8 @@ page_sections:
     alt_text: ''
   background_image: ''
   headline: <strong><span class="light">About the Author</span></strong>
-  content: Andrew Weymouth is an archivist, exhibit designer and writer working in
-    Tacoma, WA, recently completing an MLIS degree from the University of Washington.
+  content: <br>Andrew Weymouth is an archivist, exhibit designer and writer working
+    in Tacoma, WA, recently completing an MLIS degree from the University of Washington.
     Published areas of interest include <a href="https://www-tandfonline-com.offcampus.lib.washington.edu/eprint/WI2IT6BTDCPNNWCPMGW5/full?target=10.1080/0361526X.2021.1985685"
     title="methods">oral history</a>, <a href="https://mydigitalpublication.com/publication/?i=690860&amp;p=11&amp;ver=html5"
     title="houston">displacement</a>, settler colonialism and the history of libraries
