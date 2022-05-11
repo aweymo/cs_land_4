@@ -350,5 +350,44 @@ page_sections:
     this work. Finally, I would like to thank Lourdes Santamaria-Wheeler of the University
     of Florida, whose class on ethical exhibit description through We Here was hugely
     influential on the design of this project.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: <strong><span class="light">Endnotes</span></strong>
+  slug: Endnotes
+  content: '<span class="s1">1</span> “Victory to Mean Blow to Industry. Repeal of
+    Tolls - Oregonian (Published as Morning Oregonian) - April 1, 1914 - Page 2,”
+    n.d., 1.<br><br><span class="s1">2</span> “Characteristics of Chinese Laborers
+    - Oregonian (Published as Morning Oregonian.) - September 14, 1899 - Page 4,”
+    n.d., 1.<br><br><span class="s1">3</span> “White Supremacy and the Alien Land
+    Laws of Washington State - Seattle Civil Rights and Labor History Project.” Accessed
+    January 31, 2022. <a href="https://depts.washington.edu/civilr/alien_land_laws.htm"
+    title="https://depts.washington.edu/civilr/alien_land_laws.htm"><span class="s2">https://depts.washington.edu/civilr/alien_land_laws.htm</span></a>.<br><br><span
+    class="s1">4</span> Sullivan, Doreen. “A Brief History of Homophobia in Dewey
+    Decimal Classification.” <em>Overland Literary Journal</em> (blog). Overland literary
+    journal. Accessed April 30, 2022. <a href="https://overland.org.au/2015/07/a-brief-history-of-homophobia-in-dewey-decimal-classification/"
+    title="https://overland.org.au/2015/07/a-brief-history-of-homophobia-in-dewey-decimal-classification/"><span
+    class="s2">https://overland.org.au/2015/07/a-brief-history-of-homophobia-in-dewey-decimal-classification/</span></a>.<br><br><span
+    class="s1">5</span> “Greeks Turn on Foreman. Frank M’Gee Stops Attack - Oregonian
+    (Published as Morning Oregonian) - April 8, 1908 - Page 11,” n.d., 1.<br><br><span
+    class="s3">6</span><span class="s4"> “Welcome to Northwest ORCA - Northwest ORCA.”
+    </span><a href="https://northwestroom.tacomalibrary.org/index.php/" title="https://northwestroom.tacomalibrary.org/index.php/"><span
+    class="s4">https://northwestroom.tacomalibrary.org/index.php/</span></a><span
+    class="s4">.<br><br></span><span class="s1">7</span> Archives for Black Lives<span
+    class="s1">8</span> South Asian American Digital Archive (SAADA). “Search.” Text.
+    Accessed April 30, 2022. <a href="https://www.saada.org/browse/theme/early-immigration"
+    title="https://www.saada.org/browse/theme/early-immigration"><span class="s2">https://www.saada.org/browse/theme/early-immigration</span></a>.<br><br><span
+    class="s1">9</span> “1910 Census: The 13th Federal Census Shows Washington.” Accessed
+    April 1, 2022. <a href="https://www.historylink.org/File/9444" title="https://www.historylink.org/File/9444"><span
+    class="s2">https://www.historylink.org/File/9444</span></a>.<br><br><strong>All
+    images on this page are courtesy of the Tacoma Public Library''s Northwest Room</strong><br><br>Full
+    list of credits and copyright statements for all materials included in the <a
+    href="https://aweymo.github.io/CS.2/data.html" title="CB_Data">CollectionBuilder
+    Object Repository</a>.<br><br>A full list of text mining resources for all community
+    groups can be viewed <a href="https://aweymo.github.io/uploads/uploads/2022/full-list-of-resources.pdf"
+    title="full list">here</a>.'
+  media:
+    image: "/uploads/uploads/2022/as_021901_d.png"
+    alt_text: ''
 
 ---
