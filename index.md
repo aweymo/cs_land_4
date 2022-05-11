@@ -349,7 +349,9 @@ page_sections:
     at the University of Washington for their advice on the text mining elements of
     this work. Finally, I would like to thank Lourdes Santamaria-Wheeler of the University
     of Florida, whose class on ethical exhibit description through We Here was hugely
-    influential on the design of this project.
+    influential on the design of this project.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage064"
+    title="Vorwartz!"><strong>· </strong>Vorwärtz! (Forward!), German language newspaper,
+    1891/01/15</a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
