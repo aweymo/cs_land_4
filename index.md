@@ -124,5 +124,23 @@ page_sections:
   media:
     image: "/uploads/uploads/2022/wmj_b.png"
     alt_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: 'While you use this resource, it is helpful to consider:'
+    slug: c1
+    content: "· What adjectives are used to describe these groups and how do they
+      change over time in relation to industrial interests?"
+  col_2:
+    headline: ''
+    slug: c2
+    content: · When do immigrant groups stop being referred to by their country of
+      origin and become "American," "White" or hyphenates, such as Polish-American?
+  col_3:
+    headline: ''
+    slug: c3
+    content: "· How do world events shape these representations? Are there also industrial
+      motives behind these narratives, as in the case of WWII opportunism on the part
+      of agricultural interests seizing Japanese American farmland during incarceration?"
 
 ---
