@@ -194,16 +194,26 @@ page_sections:
       they resembled.</span>
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/uploads/2022/census.png"
+  background_image: "/uploads/uploads/2022/c_06031886_c.png"
   headline: <strong><span class="light">Methodology</span></strong>
-  content: "<strong>The 14 communities that I focused on for this project were selected
-    using two resources.</strong><br><br>The first was the 13th Federal Census of
-    1910. I chose this document because it is conveniently centered in this project's
-    time span, and it is one of the first documents to include ethnicity in the population
-    numbers for Washington and Oregon state. Of course, these numbers need to be read
-    with extreme skepticism, but they do provide us with an insight into the diversity
-    of the Pacific Northwest at this moment.<br><br><br><br>· Chapter Ten of the 1910
-    Federal Census"
+  content: <strong><br>The following community groups were chosen for this research:<br><br></strong>Informed
+    by these archival collections, historic newspapers, periodicals and legacy oral
+    history recordings, I felt the following communities would be most appropriate
+    to research for this time period in Washington and Oregon state.<br><br>· <span
+    class="s1">Black<br></span>· <span class="s1">Chinese<br></span>· <span class="s1">Filipino<br></span>·
+    <span class="s1">Finnish<br></span>· <span class="s1">German<br></span>· <span
+    class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
+    <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
+    class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
+    <span class="s1">Polish<br></span>· <span class="s1">South Asian</span><strong><br><br><br>These
+    communities were selected using two resources.</strong><br><br>The first was the
+    13th Federal Census of 1910. I chose this document because it is conveniently
+    centered in this project's time span, and it is one of the first documents to
+    include ethnicity in the population numbers for Washington and Oregon state. Of
+    course, these numbers need to be read with extreme skepticism, but they do provide
+    us with an insight into the diversity of the Pacific Northwest at this moment.<br><br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage027" title="Tacoma
+    Coal Bunker"><strong>·</strong> "Tacoma Coal Bunker" Commerce, 1886/06/03</a>
   image:
     image: ''
     alt_text: ''
@@ -244,9 +254,9 @@ page_sections:
     <span class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
     <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
     class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
-    <span class="s1">Polish<br></span>· <span class="s1">South Asian<br><br><br><br><br></span><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage027" title="&quot;Tacoma
-    Coal Bunkers&quot;"><strong>·</strong> "Tacoma Coal Bunker" Commerce, 1886/06/03</a>
+    <span class="s1">Polish<br></span>· <span class="s1">South Asian<br><br><br><br></span><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage027" title="https://aweymo.github.io/CS.2/item.html?id=maplanguage027">https://aweymo.github.io/CS.2/item.html?id=maplanguage027</a><span
+    class="s1"><br></span><strong>·</strong> "Tacoma Coal Bunker" Commerce, 1886/06/03
   media:
     image: "/uploads/uploads/2022/c_06031886_c.png"
     alt_text: ''
