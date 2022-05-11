@@ -22,8 +22,10 @@ page_sections:
   block: header-2
   logo: "/uploads/uploads/2022/ill030_logo.png"
   navigation:
-  - link: Home
-    link_text: https://aweymo.github.io/mappinglanguage
+  - link: ''
+    link_text: ''
+  - link: https://aweymo.github.io/mappinglanguage
+    link_text: Home
   cta:
     url: ''
     button_text: ''
