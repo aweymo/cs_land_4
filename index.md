@@ -53,7 +53,7 @@ page_sections:
     land development interests, which may still influence our perceptions today.</span></strong>
   slug: developing
   content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage063"
-    title="TEN">Tacoma Evening News, 1901/10/15</a>
+    title="TEN">· Tacoma Evening News, 1901/10/15</a>
   media:
     image: "/uploads/uploads/2022/ten_15101901_c.png"
     alt_text: ''
@@ -66,8 +66,7 @@ page_sections:
     immigrant communities in Washington and Oregon and visualize these trends in language
     and how they may have been influenced by specific commercial interests in the
     nineteenth and twentieth centuries.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
-    title="&quot;1903 Prosperity Edition&quot;">"1903 Prosperity Edition" Tacoma Evening
-    News 1903/01/12</a>
+    title="1903">· "1903 Prosperity Edition" Tacoma Evening News 1903/01/12</a>
   image:
     image: ''
     alt_text: ''
@@ -122,7 +121,7 @@ page_sections:
     Racial provocations would also be used as a straw man for industrialists to argue
     against anti-monopoly legislation, shape narratives around land development and
     act opportunistically during times of war.<br><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage088"
-    title="&quot;Intolerance&quot;">Washington Masonic Journal</a>
+    title="&quot;Intolerance&quot;">· Washington Masonic Journal</a>
   media:
     image: "/uploads/uploads/2022/wmj_b.png"
     alt_text: ''
