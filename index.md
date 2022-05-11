@@ -331,5 +331,14 @@ page_sections:
   image: "/uploads/uploads/2022/overview-gif.gif"
   slug: over
   caption: Mapping Language Content Overview
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/uploads/2022/v_15011891.png"
+    alt_text: ''
+  headline: ''
+  slug: ''
+  content: ''
 
 ---
