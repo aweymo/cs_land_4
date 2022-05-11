@@ -261,5 +261,24 @@ page_sections:
     image: "/uploads/uploads/2022/c_06031886_c.png"
     alt_text: ''
   headline: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    slug: M1
+    content: This process involved retrieving the top <strong>40 items</strong> of
+      each group based on relevance, or the greatest number of matches for each search
+      term. The searches all followed the same formula, <strong>"_____ labor,"</strong>
+      <strong>1880-1930</strong> date range, and <strong>Washington</strong> or <strong>Oregon</strong>
+      state based publications. From these forty items, results were filtered down
+      to <strong>10 items</strong> based on their locality.
+    headline: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
