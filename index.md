@@ -416,6 +416,8 @@ page_sections:
   block: header-2
   logo: "/uploads/uploads/2022/ill030_logo.png"
   navigation:
+  - link: https://aweymo.github.io/cs_howto
+    link_text: How To Use This Guide
   - link: https://aweymo.github.io/mappinglanguage
     link_text: Home
   cta:
