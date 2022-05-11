@@ -3,21 +3,6 @@ layout: blocks
 title: Mapping Language
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/uploads/2022/as021901.png"
-  headline: <strong><span class="light">Mapping Language:<br></span></strong><span
-    class="light">Representation of Immigrant Communities in the Pacific Northwest,
-    1880-1930</span>
-  content: "<strong>Andrew Weymouth<br></strong>2022 Capstone<br>for the University
-    of Washington"
-  image:
-    image: ''
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/uploads/2022/ill030_logo.png"
@@ -41,6 +26,23 @@ page_sections:
   - link: https://aweymo.github.io/hnv_2/
     link_text: Network Visualization
   cta:
+    url: ''
+    button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/uploads/2022/as021901.png"
+  headline: <strong><span class="light">Mapping Language:<br></span></strong><span
+    class="light">Representation of Immigrant Communities in the Pacific Northwest,
+    1880-1930</span>
+  content: <strong>Andrew Weymouth<br></strong>2022 Capstone<br>for the University
+    of Washington<br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001"
+    title="&quot;Uncle Sam Sees The Danger&quot;"><strong>· </strong>"Uncle Sam Sees
+    The Danger"<br>The American Standard, 1901/02</a>
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
     url: ''
     button_text: ''
 - template: content-feature
