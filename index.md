@@ -330,7 +330,7 @@ page_sections:
     button_text: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/uploads/2022/overview-gif.gif"
+  image: "/uploads/uploads/2022/overview-01.gif"
   slug: over
   caption: Mapping Language Content Overview
 - template: content-feature
