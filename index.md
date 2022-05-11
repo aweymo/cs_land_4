@@ -391,5 +391,17 @@ page_sections:
   media:
     image: "/uploads/uploads/2022/as_021901_d.png"
     alt_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/uploads/2022/aweymouth-smol.png"
+    alt_text: ''
+  background_image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
