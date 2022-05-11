@@ -84,7 +84,7 @@ page_sections:
     is now propelled and reflected digitally. Though technology leaders are quick
     to deflect and opine that "you can't put the genie back in the bottle," algorithms,
     and these collected works, have flesh and blood authors behind them, and those
-    authors very often have commercial and economic interests behind their creations.<br><br><br><br><a
+    authors very often have commercial and economic interests behind their creations.<br><br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165" title="1903">·
     "1903 Prosperity Edition" Tacoma Evening News 1903/01/12</a>
   image:
@@ -143,17 +143,17 @@ page_sections:
   content: Paraphrasing the official statement of the Tacoma Public Library's Northwest
     Room, you will encounter offensive, oppressive, racist, and/or outdated references
     and representations within this exhibit. The material is made accessible for transparency,
-    accountability, and education.<br><br>As this project is interested in how community
-    groups are being described in historic materials, outdated and racist search terms
-    needed to be utilized in the creation of this research. For example, in collecting
-    articles for the Black community, searching "negro labor" within the parameters
-    that were repeated for each community group (Washington and Oregon State publications,
-    1880-1930, sorted by relevance) yielded <strong>340</strong> results, as opposed
-    to "colored labor" <strong>(165)</strong> and "black labor" <strong>(55)</strong>.
-    That said, all of my descriptions for this community will use <strong>Black</strong>,
-    drawing description guidance from the <em>Archives for Black Lives in Philadelphia</em>.<br><br><br><br><br><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152" title="Tacoma
-    Tidende Front Page"><strong>· </strong>Tacoma Tidende, 1897/10/30</a>
+    accountability, and education.<br><br><br>As this project is interested in how
+    community groups are being described in historic materials, outdated and racist
+    search terms needed to be utilized in the creation of this research. For example,
+    in collecting articles for the Black community, searching "negro labor" within
+    the parameters that were repeated for each community group (Washington and Oregon
+    State publications, 1880-1930, sorted by relevance) yielded <strong>340</strong>
+    results, as opposed to "colored labor" <strong>(165)</strong> and "black labor"
+    <strong>(55)</strong>. That said, all of my descriptions for this community will
+    use <strong>Black</strong>, drawing description guidance from the <em>Archives
+    for Black Lives in Philadelphia</em>.<br><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
+    title="Tacoma Tidende Front Page"><strong>· </strong>Tacoma Tidende, 1897/10/30</a>
   image:
     image: ''
     alt_text: ''
@@ -244,7 +244,7 @@ page_sections:
     <span class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
     <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
     class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
-    <span class="s1">Polish<br></span>· <span class="s1">South Asian<br><br><br><br></span><a
+    <span class="s1">Polish<br></span>· <span class="s1">South Asian<br><br><br><br><br></span><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage027" title="&quot;Tacoma
     Coal Bunkers&quot;"><strong>·</strong> "Tacoma Coal Bunker" Commerce, 1886/06/03</a>
   media:
