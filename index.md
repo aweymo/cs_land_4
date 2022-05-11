@@ -221,5 +221,24 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: second
+  content: The second resource that informed my focus was the Northwest Room, the
+    archive of the Tacoma Public Library. Anna Trammell, the Lead Historian for the
+    Northwest Room and also the sponsor of this Capstone, curated archival collections
+    and oral history recordings which applied to my area of focus and needed organization,
+    finding aids and digitization.<br><br>These projects helped me learn about the
+    Norwegian American community through the <strong>Ancient Order of Vikings</strong>,
+    a fraternal organization for immigrants, and the Puyallup Valley chapter of the
+    <strong>Japanese American Citizens League</strong>, a nationwide organization
+    which played a crucial role in WWII incarceration. I also pulled from the Northwest
+    Room's <em>Bicentennial Oral History Project</em>, where digitized recordings
+    shed light on Puget Sound's Polish, Italian and Native American communities.
+  media:
+    image: "/uploads/uploads/2022/aov005_u.png"
+    alt_text: ''
+  headline: ''
 
 ---
