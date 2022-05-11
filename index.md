@@ -396,7 +396,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: "/uploads/uploads/2022/aweymouth-smol.png"
+    image: "/uploads/uploads/2022/aweymouth.png"
     alt_text: ''
   background_image: ''
   headline: <strong><span class="light">About the Author</span></strong>
