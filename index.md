@@ -60,13 +60,33 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/uploads/2022/ten12091903.png"
-  headline: <strong><span class="light">Introduction</span></strong>
-  content: This Capstone will collect, analyze and map historical language in newspapers,
+  headline: <strong><span class="light">What is this?</span></strong>
+  content: This work has collected, analyzed and mapped historical language in newspapers,
     periodicals, legacy oral history recordings and archival collections describing
     immigrant communities in Washington and Oregon and visualize these trends in language
     and how they may have been influenced by specific commercial interests in the
-    nineteenth and twentieth centuries.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
-    title="1903">· "1903 Prosperity Edition" Tacoma Evening News 1903/01/12</a>
+    nineteenth and twentieth centuries.<br><br><br><strong>What is the purpose?<br><br><br></strong>The
+    intention of this work is to bring both the industrial interests that influenced
+    media representation, and the lived experience of the communities affected by
+    that language down to a human scale. By analyzing these documents and noting how
+    different communities were being represented depending on commercial interests,
+    we can make new connections and understand the origins of seemingly constant cultural
+    perceptions.<br><br>· This project serves primarily as a pedagogical tool and
+    a methodology for analyzing historical material by increasing access points through
+    visual, audio, geospatial and text elements.<br><br><br><strong>Why does this
+    matter? </strong><br><br><br>Why air out frequently offensive material from over
+    100 years ago? Just as the categorization of <em>Lesbian</em> and <em>Gay</em>
+    topics under <em>Abnormal Psychology, Perversion and Derangement</em> in the Dewey
+    Decimal System quietly stigmatized generations, I feel that this language may
+    still influence our perceptions of ourselves and other communities, long past
+    it's original intended use.<br><br>The lack of accountability in the dissemination
+    of hate speech also has parallels with our current condition, where this language
+    is now propelled and reflected digitally. Though technology leaders are quick
+    to deflect and opine that "you can't put the genie back in the bottle," algorithms,
+    and these collected works, have flesh and blood authors behind them, and those
+    authors very often have commercial and economic interests behind their creations.<br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165" title="1903">·
+    "1903 Prosperity Edition" Tacoma Evening News 1903/01/12</a>
   image:
     image: ''
     alt_text: ''
@@ -74,33 +94,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: Purpose
-    slug: Purpose
-    content: The intention of this work is to bring both the industrial interests
-      that influenced media representation, and the lived experience of the communities
-      affected by that language down to a human scale. By analyzing these documents
-      and noting how different communities were being represented depending on commercial
-      interests, we can make new connections and understand the origins of seemingly
-      constant cultural perceptions.<br><br>· This project serves primarily as a pedagogical
-      tool and a methodology for analyzing historical material by increasing access
-      points through visual, audio, geospatial and text elements.
-  col_2:
-    headline: Relevance
-    slug: Relevance
-    content: Why does this matter? Why air out frequently offensive material from
-      over 100 years ago? Just as the categorization of <em>Lesbian</em> and <em>Gay</em>
-      topics under <em>Abnormal Psychology, Perversion and Derangement</em> in the
-      Dewey Decimal System quietly stigmatized generations, I feel that this language
-      may still influence our perceptions of ourselves and other communities, long
-      past it's original intended use.<br><br>The lack of accountability in the dissemination
-      of hate speech also has parallels with our current condition, where this language
-      is now propelled and reflected digitally. Though technology leaders are quick
-      to deflect and opine that "you can't put the genie back in the bottle," algorithms,
-      and these collected works, have flesh and blood authors behind them, and those
-      authors very often have commercial and economic interests behind their creations.
 - template: content-feature
   block: feature-1
   media_alignment: Left
