@@ -304,7 +304,7 @@ page_sections:
     title="&quot;A Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration,
     R.H. Case, 1915/03/31</a>
   media:
-    image: ''
+    image: "/uploads/uploads/2022/page-0001.png"
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
