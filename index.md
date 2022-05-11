@@ -183,11 +183,24 @@ page_sections:
     headline: 'Other naming decisions:'
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: naming 3
+    content: <span class="s1">· In future iterations of this project, I would like
+      to rename all subject tags for </span><strong><span class="s1">Hindu</span></strong><span
+      class="s1"> materials to </span><strong><span class="s1">South Asian, </span></strong><span
+      class="s1">as implemented in the </span><em><span class="s1">South Asian Digital
+      Archive</span></em><span class="s1">. I decided on Hindu because it was the
+      most popular and accurate identifier used by the media during this time. That
+      said, this description does assume religious practice, which is not necessarily
+      correct.</span>
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: naming4
+    content: <span class="s1">· Finally, of all the groups described in this project,
+      the </span><strong><span class="s1">only communities</span></strong><span class="s1">
+      that were not immigrants are </span><strong><span class="s1">Native Americans</span></strong><span
+      class="s1">. That said, I felt that the representation of this community was
+      a crucial element to this work, examining how the media often 'othered' these
+      communities to engage in myth making around who a true American was and what
+      they resembled.</span>
 
 ---
