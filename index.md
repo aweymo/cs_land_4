@@ -18,6 +18,15 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/uploads/2022/ill030_logo.png"
+  navigation:
+  - link: Home
+    link_text: https://aweymo.github.io/mappinglanguage
+  cta:
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
