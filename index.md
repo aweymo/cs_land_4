@@ -171,5 +171,23 @@ page_sections:
     description guidance from the <em>Archives for Black Lives in Philadelphia</em>.
   slug: naming1
   headline: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    slug: naming2
+    content: <span class="s1">· I have chosen to refer to each group simply from their
+      country of origin rather than </span><em><span class="s1">hyphenate-American</span></em><span
+      class="s1"> though many of the people addressed in this media </span><strong><span
+      class="s1">may have been American citizens</span></strong><span class="s1">.
+      This was a decision to make the material easier to read and less redundant.</span>
+    headline: 'Other naming decisions:'
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
