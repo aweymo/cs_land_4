@@ -22,10 +22,12 @@ page_sections:
   block: header-2
   logo: "/uploads/uploads/2022/ill030_logo.png"
   navigation:
-  - link: ''
-    link_text: ''
+  - link: https://aweymo.github.io/CS.2/browse.html
+    link_text: Browse
   - link: https://aweymo.github.io/mappinglanguage
     link_text: Home
+  - link: https://aweymo.github.io/cs_howto
+    link_text: How To Use This Guide
   cta:
     url: ''
     button_text: ''
