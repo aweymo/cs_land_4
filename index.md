@@ -235,7 +235,9 @@ page_sections:
     <strong>Japanese American Citizens League</strong>, a nationwide organization
     which played a crucial role in WWII incarceration. I also pulled from the Northwest
     Room's <em>Bicentennial Oral History Project</em>, where digitized recordings
-    shed light on Puget Sound's Polish, Italian and Native American communities.
+    shed light on Puget Sound's Polish, Italian and Native American communities.<br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage153" title="Scrapbook">·
+    Scrapbook excerpt from the Ancient Order of Vikings Norwegian fraternal organization</a>
   media:
     image: "/uploads/uploads/2022/aov005_u.png"
     alt_text: ''
