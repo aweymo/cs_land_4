@@ -55,8 +55,23 @@ page_sections:
   media:
     image: "/uploads/uploads/2022/ten_15101901_c.png"
     alt_text: ''
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/uploads/2022/ten12091903.png"
+  headline: <strong><span class="light">Introduction</span></strong>
+  content: This Capstone will collect, analyze and map historical language in newspapers,
+    periodicals, legacy oral history recordings and archival collections describing
+    immigrant communities in Washington and Oregon and visualize these trends in language
+    and how they may have been influenced by specific commercial interests in the
+    nineteenth and twentieth centuries.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
+    title="&quot;1903 Prosperity Edition&quot;">"1903 Prosperity Edition" Tacoma Evening
+    News 1903/01/12</a>
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
