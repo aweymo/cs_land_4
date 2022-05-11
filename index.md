@@ -121,7 +121,7 @@ page_sections:
     leading immigrant groups to undercut one another to the industrialist's advantage.
     Racial provocations would also be used as a straw man for industrialists to argue
     against anti-monopoly legislation, shape narratives around land development and
-    act opportunistically during times of war.<br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage088"
+    act opportunistically during times of war.<br><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage088"
     title="&quot;Intolerance&quot;">Washington Masonic Journal</a>
   media:
     image: "/uploads/uploads/2022/wmj_b.png"
