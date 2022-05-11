@@ -128,8 +128,8 @@ page_sections:
   col_2:
     headline: ''
     slug: c2
-    content: · When do immigrant groups stop being referred to by their country of
-      origin and become "American," "White" or hyphenates, such as Polish-American?
+    content: <br><br>· When do immigrant groups stop being referred to by their country
+      of origin and become "American," "White" or hyphenates, such as Polish-American?
   col_3:
     headline: ''
     slug: c3
