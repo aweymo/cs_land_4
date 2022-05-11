@@ -333,12 +333,22 @@ page_sections:
   caption: Mapping Language Content Overview
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/uploads/2022/v_15011891.png"
     alt_text: ''
-  headline: ''
-  slug: ''
-  content: ''
+  headline: "<strong>Acknowledgements</strong>"
+  slug: Acknowledgements
+  content: I would like to thank Anna Trammell, Spencer Bowman and Ilona Perry at
+    the Northwest Room for being incredibly generous with their time and effort in
+    supporting this project. I would also like to thank Kate Thornhill at the University
+    of Oregon for advice on shaping and hosting this work.<br><br>I have a huge debt
+    of gratitude to Olivia Winkle and Devin Becker at the University of Idaho for
+    helping guide me through the process of working with CollectionBuilder (and creating
+    it in the first place!) I also would like to thank Elliott Stevens and Sarah Ketchley
+    at the University of Washington for their advice on the text mining elements of
+    this work. Finally, I would like to thank Lourdes Santamaria-Wheeler of the University
+    of Florida, whose class on ethical exhibit description through We Here was hugely
+    influential on the design of this project.
 
 ---
