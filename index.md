@@ -202,5 +202,24 @@ page_sections:
       a crucial element to this work, examining how the media often 'othered' these
       communities to engage in myth making around who a true American was and what
       they resembled.</span>
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/uploads/2022/census.png"
+  headline: <strong><span class="light">Methodology</span></strong>
+  content: "<strong>The 14 communities that I focused on for this project were selected
+    using two resources.</strong><br><br>The first was the 13th Federal Census of
+    1910. I chose this document because it is conveniently centered in this project's
+    time span, and it is one of the first documents to include ethnicity in the population
+    numbers for Washington and Oregon state. Of course, these numbers need to be read
+    with extreme skepticism, but they do provide us with an insight into the diversity
+    of the Pacific Northwest at this moment.<br><br><br><br>· Chapter Ten of the 1910
+    Federal Census"
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
