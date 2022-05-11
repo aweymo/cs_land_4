@@ -100,5 +100,28 @@ page_sections:
       to deflect and opine that "you can't put the genie back in the bottle," algorithms,
       and these collected works, have flesh and blood authors behind them, and those
       authors very often have commercial and economic interests behind their creations.
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Background</strong>"
+  slug: Background
+  content: The staying power of this language also has to do with the significance
+    of this period in the Pacific Northwest. Our time frame begins ten years before
+    the United States Census Bureau declared the closure of the western frontier.
+    What follows feels like an ideological rather than physical land grab.<br><br>A<span
+    class="Apple-converted-space"> </span>prominent theme throughout this research
+    is the concept of "retaining" the American character in Washington and Oregon,
+    when it was clearly churning with development. Settlers perpetually gauge other
+    immigrant groups on their ability to assimilate or "Americanize," with particular
+    focus on differentiating between "New Immigrants" and "Old Immigrants," though
+    they may have only arrived within ten years of one another.<br><br>During this
+    period in American history, racial animosity was frequently used to divide labor,
+    leading immigrant groups to undercut one another to the industrialist's advantage.
+    Racial provocations would also be used as a straw man for industrialists to argue
+    against anti-monopoly legislation, shape narratives around land development and
+    act opportunistically during times of war.
+  media:
+    image: "/uploads/uploads/2022/wmj_b.png"
+    alt_text: ''
 
 ---
