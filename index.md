@@ -43,6 +43,18 @@ page_sections:
   cta:
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong><span class="light">Developing language used to describe immigrant
+    groups in the Pacific Northwest from 1880-1930, reflects labor, industrial and
+    land development interests, which may still influence our perceptions today.</span></strong>
+  slug: developing
+  content: <a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage063" title="TEN">Tacoma
+    Evening News, 1901/10/15</a>
+  media:
+    image: "/uploads/uploads/2022/ten_15101901_c.png"
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
