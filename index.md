@@ -412,5 +412,14 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/uploads/2022/ill030_logo.png"
+  navigation:
+  - link: https://aweymo.github.io/mappinglanguage
+    link_text: Home
+  cta:
+    url: ''
+    button_text: ''
 
 ---
