@@ -161,19 +161,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  content: As this project is interested in how community groups are being described
-    in historic materials, outdated and racist search terms needed to be utilized
-    in the creation of this research. For example, in collecting articles for the
-    Black community, searching "negro labor" within the parameters that were repeated
-    for each community group (Washington and Oregon State publications, 1880-1930,
-    sorted by relevance) yielded <strong>340</strong> results, as opposed to "colored
-    labor" <strong>(165)</strong> and "black labor" <strong>(55)</strong>. That said,
-    all of my descriptions for this community will use <strong>Black</strong>, drawing
-    description guidance from the <em>Archives for Black Lives in Philadelphia</em>.
-  slug: naming1
-  headline: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
