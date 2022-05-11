@@ -274,11 +274,20 @@ page_sections:
     headline: ''
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: M2
+    content: Items that were reprints of stories outside of Washington and Oregon
+      were removed. Documents generally focused on events within this area, but editorials
+      on some national topics could be included if they provided insight into Pacific
+      Northwest culture. These ten items were then separated into <strong>five earlier
+      and later halves</strong>, demonstrating linguistic change over time.
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: M3
+    content: Words used in the search were then removed from results. For example,
+      in "Japanese labor," "Japanese," "labor," "laborer" and any words referring
+      to that community group would be removed from visualizations, including slurs.
+      This was not <strong>done to sanitize the material</strong>, rather to focus
+      on the underlying industrial and economic elements that may have been influencing
+      this media.
 
 ---
