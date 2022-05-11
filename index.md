@@ -142,5 +142,21 @@ page_sections:
     content: "· How do world events shape these representations? Are there also industrial
       motives behind these narratives, as in the case of WWII opportunism on the part
       of agricultural interests seizing Japanese American farmland during incarceration?"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/uploads/2022/tt30101897.png"
+  headline: <strong><span class="light">Statement on Potentially Harmful Content</span></strong>
+  content: Paraphrasing the official statement of the Tacoma Public Library's Northwest
+    Room, you will encounter offensive, oppressive, racist, and/or outdated references
+    and representations within this exhibit. The material is made accessible for transparency,
+    accountability, and education.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
+    title="Tacoma Tidende Front Page"><strong>· </strong>Tacoma Tidende, 1897/10/30</a>
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
