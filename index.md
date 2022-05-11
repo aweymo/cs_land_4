@@ -99,7 +99,7 @@ page_sections:
   media_alignment: Left
   headline: "<strong>Background</strong>"
   slug: Background
-  content: The staying power of this language also has to do with the significance
+  content: <br>The staying power of this language also has to do with the significance
     of this period in the Pacific Northwest. Our time frame begins ten years before
     the United States Census Bureau declared the closure of the western frontier.
     What follows feels like an ideological rather than physical land grab.<br><br>A<span
@@ -140,19 +140,19 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/tt30101897.png"
   headline: <strong><span class="light">Statement on Potentially Harmful Content</span></strong>
-  content: Paraphrasing the official statement of the Tacoma Public Library's Northwest
-    Room, you will encounter offensive, oppressive, racist, and/or outdated references
-    and representations within this exhibit. The material is made accessible for transparency,
-    accountability, and education.<br><br><br>As this project is interested in how
-    community groups are being described in historic materials, outdated and racist
-    search terms needed to be utilized in the creation of this research. For example,
-    in collecting articles for the Black community, searching "negro labor" within
-    the parameters that were repeated for each community group (Washington and Oregon
-    State publications, 1880-1930, sorted by relevance) yielded <strong>340</strong>
-    results, as opposed to "colored labor" <strong>(165)</strong> and "black labor"
-    <strong>(55)</strong>. That said, all of my descriptions for this community will
-    use <strong>Black</strong>, drawing description guidance from the <em>Archives
-    for Black Lives in Philadelphia</em>.<br><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
+  content: <br>Paraphrasing the official statement of the Tacoma Public Library's
+    Northwest Room, you will encounter offensive, oppressive, racist, and/or outdated
+    references and representations within this exhibit. The material is made accessible
+    for transparency, accountability, and education.<br><br><br>As this project is
+    interested in how community groups are being described in historic materials,
+    outdated and racist search terms needed to be utilized in the creation of this
+    research. For example, in collecting articles for the Black community, searching
+    "negro labor" within the parameters that were repeated for each community group
+    (Washington and Oregon State publications, 1880-1930, sorted by relevance) yielded
+    <strong>340</strong> results, as opposed to "colored labor" <strong>(165)</strong>
+    and "black labor" <strong>(55)</strong>. That said, all of my descriptions for
+    this community will use <strong>Black</strong>, drawing description guidance from
+    the <em>Archives for Black Lives in Philadelphia</em>.<br><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
     title="Tacoma Tidende Front Page"><strong>· </strong>Tacoma Tidende, 1897/10/30</a>
   image:
     image: ''
@@ -215,9 +215,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: second
-  content: The second resource that informed my focus was the Northwest Room, the
-    archive of the Tacoma Public Library. Anna Trammell, the Lead Historian for the
-    Northwest Room and also the sponsor of this Capstone, curated archival collections
+  content: <br>The second resource that informed my focus was the Northwest Room,
+    the archive of the Tacoma Public Library. Anna Trammell, the Lead Historian for
+    the Northwest Room and also the sponsor of this Capstone, curated archival collections
     and oral history recordings which applied to my area of focus and needed organization,
     finding aids and digitization.<br><br>These projects helped me learn about the
     Norwegian American community through the <strong>Ancient Order of Vikings</strong>,
