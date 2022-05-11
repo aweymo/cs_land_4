@@ -52,8 +52,8 @@ page_sections:
     groups in the Pacific Northwest from 1880-1930, reflects labor, industrial and
     land development interests, which may still influence our perceptions today.</span></strong>
   slug: developing
-  content: <a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage063" title="TEN">Tacoma
-    Evening News, 1901/10/15</a>
+  content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage063"
+    title="TEN">Tacoma Evening News, 1901/10/15</a>
   media:
     image: "/uploads/uploads/2022/ten_15101901_c.png"
     alt_text: ''
