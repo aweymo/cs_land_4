@@ -371,7 +371,7 @@ page_sections:
     groups can be viewed <a href="https://aweymo.github.io/uploads/uploads/2022/full-list-of-resources.pdf"
     title="full list">here</a>.'
   media:
-    image: "/uploads/uploads/2022/as_021901_d.png"
+    image: "/uploads/uploads/2022/as_021901_e.png"
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
