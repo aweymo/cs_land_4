@@ -363,12 +363,12 @@ page_sections:
     title="https://www.saada.org/browse/theme/early-immigration"><span class="s2">https://www.saada.org/browse/theme/early-immigration</span></a>.<br><br><span
     class="s1">9</span> “1910 Census: The 13th Federal Census Shows Washington.” Accessed
     April 1, 2022. <a href="https://www.historylink.org/File/9444" title="https://www.historylink.org/File/9444"><span
-    class="s2">https://www.historylink.org/File/9444</span></a>.<br><br><strong>All
-    images on this page are courtesy of the Tacoma Public Library''s Northwest Room</strong><br><br>Full
-    list of credits and copyright statements for all materials included in the <a
-    href="https://aweymo.github.io/CS.2/data.html" title="CB_Data">CollectionBuilder
-    Object Repository</a>.<br><br>A full list of text mining resources for all community
-    groups can be viewed <a href="/uploads/uploads/2022/full-list-of-resources.pdf"
+    class="s2">https://www.historylink.org/File/9444</span></a>.<br><br>· Tacoma World,
+    1888/12/01, "To Emigrants"<br><br><strong>All images on this page are courtesy
+    of the Tacoma Public Library''s Northwest Room</strong><br><br>Full list of credits
+    and copyright statements for all materials included in the <a href="https://aweymo.github.io/CS.2/data.html"
+    title="CB_Data">CollectionBuilder Object Repository</a>.<br><br>A full list of
+    text mining resources for all community groups can be viewed <a href="/uploads/uploads/2022/full-list-of-resources.pdf"
     title="full list">here.</a>'
   media:
     image: "/uploads/uploads/2022/tw_01121888.png"
