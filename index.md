@@ -371,7 +371,7 @@ page_sections:
     groups can be viewed <a href="/uploads/uploads/2022/full-list-of-resources.pdf"
     title="full list">here.</a>'
   media:
-    image: "/uploads/uploads/2022/as_021901_e.png"
+    image: "/uploads/uploads/2022/tw_01121888.png"
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
