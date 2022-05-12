@@ -368,8 +368,8 @@ page_sections:
     list of credits and copyright statements for all materials included in the <a
     href="https://aweymo.github.io/CS.2/data.html" title="CB_Data">CollectionBuilder
     Object Repository</a>.<br><br>A full list of text mining resources for all community
-    groups can be viewed <a href="https://aweymo.github.io/uploads/uploads/2022/full-list-of-resources.pdf"
-    title="full list">here</a>.'
+    groups can be viewed <a href="/uploads/uploads/2022/full-list-of-resources.pdf"
+    title="full list">here.</a>'
   media:
     image: "/uploads/uploads/2022/as_021901_e.png"
     alt_text: ''
