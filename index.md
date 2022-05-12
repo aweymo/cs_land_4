@@ -278,8 +278,8 @@ page_sections:
   content: <br><a href="https://aweymo.github.io/CS.2/findings.html" title="visit
     here">Visit here</a> for a term frequency visualization as well as a full list
     of early and later period text mining visualizations for each community group<br><br><a
-    href="https://aweymo.github.io/uploads/uploads/2022/full-list-of-resources.pdf"
-    title="Full List">Visit here</a> for a full list of the 500+ text mining resources<br><br><br><br><br><a
+    href="/uploads/uploads/2022/full-list-of-resources.pdf" title="full list">Visit
+    here</a> for a full list of the 500+ text mining resources<br><br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062" title="&quot;A
     Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration, R.H. Case,
     1915/03/31</a>
