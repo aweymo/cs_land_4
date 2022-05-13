@@ -420,11 +420,5 @@ page_sections:
   cta:
     url: ''
     button_text: ''
-- template: 4-column-footer
-  block: footer-2
-  col_4: Andrew Weymouth, May 2022
-  image: "/uploads/uploads/2022/ill030_logo_sm.png"
-  col_2: ''
-  col_3: ''
 
 ---
