@@ -386,11 +386,11 @@ page_sections:
     Published areas of interest include <a href="https://www-tandfonline-com.offcampus.lib.washington.edu/eprint/WI2IT6BTDCPNNWCPMGW5/full?target=10.1080/0361526X.2021.1985685"
     title="methods">oral history</a>, <a href="https://mydigitalpublication.com/publication/?i=690860&amp;p=11&amp;ver=html5"
     title="houston">displacement</a>, settler colonialism and the history of libraries
-    in the western United States.<br><br>Click here to view <a href="https://aweymo.github.io/uploads/uploads/2022/aweymouth_port.pdf"
-    title="port">Portfolio</a>, <a href="https://aweymo.github.io/uploads/uploads/2022/aweymouth_cv.pdf"
-    title="cv">CV</a>, <a href="https://aweymo.github.io/VRAF_RC.2/" title="vraf">past
-    projects</a> and <a href="https://aweymo.github.io/cs_land" title="">site</a><br><br>or
-    reach out directly:<br><br>andrewrainsweymouth@gmail.com
+    in the western United States.<br><br>Click here to view <a href="/uploads/uploads/2022/aweymouth_port.pdf"
+    title="port">Portfolio</a>, <a href="/uploads/uploads/2022/aweymouth_cv.pdf" title="cv">CV</a>,
+    <a href="https://aweymo.github.io/VRAF_RC.2/" title="vraf">past projects</a> and
+    <a href="https://aweymo.github.io/cs_land" title="">site</a><br><br>or reach out
+    directly:<br><br>andrewrainsweymouth@gmail.com
   cta:
     enabled: false
     url: ''
