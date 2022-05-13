@@ -423,5 +423,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Andrew Weymouth, May 2022
+- template: 4-column-footer
+  block: footer-2
+  col_4: Andrew Weymouth, May 2022
+  image: ''
+  col_2: ''
+  col_3: ''
 
 ---
