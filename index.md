@@ -278,8 +278,8 @@ page_sections:
   content: <br><a href="https://aweymo.github.io/CS.2/findings.html" title="visit
     here">Visit here</a> for a term frequency visualization as well as a full list
     of early and later period text mining visualizations for each community group<br><br><a
-    href="/uploads/uploads/2022/full-list-of-resources.pdf" title="full list">Visit
-    here</a> for a full list of the 500+ text mining resources<br><br><br><br><br><a
+    href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dc07edc491202b71b1157/1652408448472/Full+list+of+Resources.pdf"
+    title="full">Visit here</a> for a full list of the 500+ text mining resources<br><br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062" title="&quot;A
     Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration, R.H. Case,
     1915/03/31</a>
@@ -369,8 +369,8 @@ page_sections:
     Library''s Northwest Room</strong><br><br>Full list of credits and copyright statements
     for all materials included in the <a href="https://aweymo.github.io/CS.2/data.html"
     title="CB_Data">CollectionBuilder Object Repository</a>.<br><br>A full list of
-    text mining resources for all community groups can be viewed <a href="/uploads/uploads/2022/full-list-of-resources.pdf"
-    title="full list">here.</a>'
+    text mining resources for all community groups can be viewed <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dc07edc491202b71b1157/1652408448472/Full+list+of+Resources.pdf"
+    title="full">here</a>.'
   media:
     image: "/uploads/uploads/2022/tw_01121888.png"
     alt_text: ''
