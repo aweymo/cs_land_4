@@ -61,7 +61,7 @@ page_sections:
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/uploads/2022/ten_12091903_c.png"
+  background_image: "/uploads/uploads/2022/ten_12091903_d.png"
   headline: <strong><span class="light">What is this?</span></strong>
   content: <br><br>This work has collected, analyzed and mapped historical language
     in newspapers, periodicals, legacy oral history recordings and archival collections
