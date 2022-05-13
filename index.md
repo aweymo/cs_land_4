@@ -61,7 +61,7 @@ page_sections:
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/uploads/2022/ten12091903.png"
+  background_image: "/uploads/uploads/2022/ten_12091903_b.png"
   headline: <strong><span class="light">What is this?</span></strong>
   content: <br><br>This work has collected, analyzed and mapped historical language
     in newspapers, periodicals, legacy oral history recordings and archival collections
@@ -73,9 +73,7 @@ page_sections:
     of the communities affected by that language down to a human scale. By analyzing
     these documents and noting how different communities were being represented depending
     on commercial interests, we can make new connections and understand the origins
-    of seemingly constant cultural perceptions.<br><br>· This project serves primarily
-    as a pedagogical tool and a methodology for analyzing historical material by increasing
-    access points through visual, audio, geospatial and text elements.<br><br><br><strong>Why
+    of seemingly <span class="yKMVIe">immemorial </span>cultural perceptions.<br><br><br><strong>Why
     does this matter? </strong><br><br><br>Why air out frequently offensive material
     from over 100 years ago? Just as the categorization of <em>Lesbian</em> and <em>Gay</em>
     topics under <em>Abnormal Psychology, Perversion and Derangement</em> in the Dewey
