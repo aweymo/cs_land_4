@@ -420,5 +420,8 @@ page_sections:
   cta:
     url: ''
     button_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Andrew Weymouth, May 2022
 
 ---
