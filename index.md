@@ -420,9 +420,6 @@ page_sections:
   cta:
     url: ''
     button_text: ''
-- template: simple-footer
-  block: footer-1
-  content: Andrew Weymouth, May 2022
 - template: 4-column-footer
   block: footer-2
   col_4: Andrew Weymouth, May 2022
