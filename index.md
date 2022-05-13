@@ -272,7 +272,7 @@ page_sections:
       this media.
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: <strong><span class="light">Findings and Resources</span></strong>
   slug: f&r
   content: <br><a href="https://aweymo.github.io/CS.2/findings.html" title="visit
