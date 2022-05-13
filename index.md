@@ -274,7 +274,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: <strong><span class="light">Findings and Resources</span></strong>
-  slug: f&r
+  slug: f_r
   content: <br><a href="https://aweymo.github.io/CS.2/findings.html" title="visit
     here">Visit here</a> for a term frequency visualization as well as a full list
     of early and later period text mining visualizations for each community group<br><br><a
