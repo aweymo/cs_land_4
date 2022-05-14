@@ -62,7 +62,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/uploads/2022/ten_12091903_e.png"
-  headline: <strong><span class="light">What is this?</span></strong>
+  headline: <strong><span class="light">What is Mapping Language?</span></strong>
   content: <br><br>This work has collected, analyzed and mapped historical language
     in newspapers, periodicals, legacy oral history recordings and archival collections
     describing immigrant communities in Washington and Oregon and visualize these
