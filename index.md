@@ -23,7 +23,7 @@ page_sections:
     link_text: Subjects
   - link: https://aweymo.github.io/CS.2/findings.html
     link_text: Text Mining
-  - link: https://aweymo.github.io/hnv_2/
+  - link: https://aweymo.github.io/nv_6/
     link_text: Network Visualization
   cta:
     url: ''
