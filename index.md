@@ -96,6 +96,36 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
+  media_alignment: Right
+  content: This work has collected, analyzed and mapped historical language in newspapers,
+    periodicals, legacy oral history recordings and archival collections describing
+    immigrant communities in Washington and Oregon and visualize these trends in language
+    and how they may have been influenced by specific commercial interests in the
+    nineteenth and twentieth centuries.<br><br><br><strong>What is the purpose?<br><br><br></strong>The
+    intention of this work is to bring both the industrial interests that influenced
+    media representation, and the lived experience of the communities affected by
+    that language down to a human scale. By analyzing these documents and noting how
+    different communities were being represented depending on commercial interests,
+    we can make new connections and understand the origins of seemingly <span class="yKMVIe">immemorial
+    </span>cultural perceptions.<br><br><br><strong>Why does this matter? </strong><br><br><br>Why
+    air out frequently offensive material from over 100 years ago? Just as the categorization
+    of <em>Lesbian</em> and <em>Gay</em> topics under <em>Abnormal Psychology, Perversion
+    and Derangement</em> in the Dewey Decimal System quietly stigmatized generations,
+    I feel that this language may still influence our perceptions of ourselves and
+    other communities, long past it's original intended use.<br><br>The lack of accountability
+    in the dissemination of hate speech also has parallels with our current condition,
+    where this language is now propelled and reflected digitally. Though technology
+    leaders are quick to deflect and opine that "you can't put the genie back in the
+    bottle," algorithms, and these collected works, have flesh and blood authors behind
+    them, and those authors very often have commercial and economic interests behind
+    their creations.
+  slug: purpose
+  media:
+    image: "/uploads/uploads/2022/ill030_b.png"
+    alt_text: ''
+  headline: ''
+- template: content-feature
+  block: feature-1
   media_alignment: Left
   headline: "<strong>Background</strong>"
   slug: Background
