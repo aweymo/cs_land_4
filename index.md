@@ -170,6 +170,26 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: Paraphrasing the official statement of the Tacoma Public Library's Northwest
+    Room, you will encounter offensive, oppressive, racist, and/or outdated references
+    and representations within this exhibit. The material is made accessible for transparency,
+    accountability, and education.<br><br>As this project is interested in how community
+    groups are being described in historic materials, outdated and racist search terms
+    needed to be utilized in the creation of this research. For example, in collecting
+    articles for the Black community, searching "negro labor" within the parameters
+    that were repeated for each community group (Washington and Oregon State publications,
+    1880-1930, sorted by relevance) yielded <strong>340</strong> results, as opposed
+    to "colored labor" <strong>(165)</strong> and "black labor" <strong>(55)</strong>.
+    That said, all of my descriptions for this community will use <strong>Black</strong>,
+    drawing description guidance from the <em>Archives for Black Lives in Philadelphia</em>.
+  slug: Paraphrasing
+  media:
+    image: "/uploads/uploads/2022/arbeideren_041892_b.png"
+    alt_text: ''
+  headline: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
