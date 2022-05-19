@@ -34,9 +34,9 @@ page_sections:
   headline: <strong><span class="light">Mapping Language:<br></span></strong><span
     class="light">Representation of Immigrant Communities in the Pacific Northwest,
     1880-1930</span>
-  content: <strong><br>Andrew Weymouth<br></strong>2022 Capstone<br>for the University
-    of Washington<br><br><br>Project sponsored by Anna Trammell, <br>Archives and
-    Special Collections Manager <br>of the Tacoma Public Library's Northwest Room<br><br><br><a
+  content: <strong><br>Andrew Weymouth<br></strong>2022 Capstone<br>University of
+    Washington<br><br><br>Project sponsored by Anna Trammell, <br>Archives and Special
+    Collections Manager <br>of the Tacoma Public Library's Northwest Room<br><br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
     Sam Sees The Danger&quot;"><strong>· </strong>"Uncle Sam Sees The Danger"<br>The
     American Standard, 1901/02</a>
@@ -63,7 +63,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/ten_12091903_e.png"
   headline: <strong><span class="light">What is <br>Mapping Language?</span></strong>
-  content: <br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
+  content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
     title="1903">· "1903 Prosperity Edition" Tacoma Evening News 1903/01/12</a>
   image:
     image: ''
@@ -149,7 +149,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/tt30101897.png"
   headline: <strong><span class="light">Statement on Potentially Harmful Content</span></strong>
-  content: <br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
+  content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
     title="Tacoma Tidende Front Page"><strong>· </strong>Tacoma Tidende, 1897/10/30</a>
   image:
     image: ''
