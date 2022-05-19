@@ -244,10 +244,26 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: second
-  content: <br>The second resource that informed my focus was the Northwest Room,
-    the archive of the Tacoma Public Library. Anna Trammell, the Lead Historian for
-    the Northwest Room and also the sponsor of this Capstone, curated archival collections
-    and oral history recordings which applied to my area of focus and needed organization,
+  content: <br><strong>The following community groups were chosen for this research:<br><br></strong>Informed
+    by these archival collections, historic newspapers, periodicals and legacy oral
+    history recordings, I felt the following communities would be most appropriate
+    to research for this time period in Washington and Oregon state.<br><br>· <span
+    class="s1">Black<br></span>· <span class="s1">Chinese<br></span>· <span class="s1">Filipino<br></span>·
+    <span class="s1">Finnish<br></span>· <span class="s1">German<br></span>· <span
+    class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
+    <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
+    class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
+    <span class="s1">Polish<br></span>· <span class="s1">South Asian</span><strong><br><br>These
+    communities were selected using two resources.</strong><br><br>The first was the
+    13th Federal Census of 1910. I chose this document because it is conveniently
+    centered in this project's time span, and it is one of the first documents to
+    include ethnicity in the population numbers for Washington and Oregon state. Of
+    course, these numbers need to be read with extreme skepticism, but they do provide
+    us with an insight into the diversity of the Pacific Northwest at this moment.<br><br>The
+    second resource that informed my focus was the Northwest Room, the archive of
+    the Tacoma Public Library. Anna Trammell, the Lead Historian for the Northwest
+    Room and also the sponsor of this Capstone, curated archival collections and oral
+    history recordings which applied to my area of focus and needed organization,
     finding aids and digitization.<br><br>These projects helped me learn about the
     Norwegian American community through the <strong>Ancient Order of Vikings</strong>,
     a fraternal organization for immigrants, and the Puyallup Valley chapter of the
