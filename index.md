@@ -123,7 +123,7 @@ page_sections:
     Racial provocations would also be used as a straw man for industrialists to argue
     against anti-monopoly legislation, shape narratives around land development and
     act opportunistically during times of war.<br><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage088"
-    title="&quot;Intolerance&quot;">· Washington Masonic Journal</a>
+    title="Masonic">· Washington Masonic Journal, June 1925</a>
   media:
     image: "/uploads/uploads/2022/wmj_b.png"
     alt_text: ''
