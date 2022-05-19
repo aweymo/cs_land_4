@@ -32,7 +32,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/as021901.png"
   headline: <strong><span class="light">Mapping Language:<br></span></strong><span
-    class="light">Representation of Immigrant Communities in the Pacific Northwest,
+    class="light">Representation of Immigrant Communities <br>in the Pacific Northwest,
     1880-1930</span>
   content: <strong><br>Andrew Weymouth<br></strong>2022 Capstone<br>University of
     Washington<br><br><br>Project sponsored by Anna Trammell, <br>Archives and Special
