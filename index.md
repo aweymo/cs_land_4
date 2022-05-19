@@ -239,22 +239,22 @@ page_sections:
     class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
     <span class="s1">Polish<br></span>· <span class="s1">South Asian</span><strong><br><br>These
     communities were selected using two resources.</strong><br><br>The first was the
-    13th Federal Census of 1910. I chose this document because it is conveniently
-    centered in this project's time span, and it is one of the first documents to
-    include ethnicity in the population numbers for Washington and Oregon state. Of
-    course, these numbers need to be read with extreme skepticism, but they do provide
-    us with an insight into the diversity of the Pacific Northwest at this moment.<br><br>The
-    second resource that informed my focus was the Northwest Room, the archive of
-    the Tacoma Public Library. Anna Trammell, the Lead Historian for the Northwest
-    Room and also the sponsor of this Capstone, curated archival collections and oral
-    history recordings which applied to my area of focus and needed organization,
-    finding aids and digitization.<br><br>These projects helped me learn about the
-    Norwegian American community through the <strong>Ancient Order of Vikings</strong>,
-    a fraternal organization for immigrants, and the Puyallup Valley chapter of the
-    <strong>Japanese American Citizens League</strong>, a nationwide organization
-    which played a crucial role in WWII incarceration. I also pulled from the Northwest
-    Room's <em>Bicentennial Oral History Project</em>, where digitized recordings
-    shed light on Puget Sound's Polish, Italian and Native American communities.<br><br><br><br><a
+    <strong>13th Federal Census of 1910</strong>. I chose this document because it
+    is conveniently centered in this project's time span, and it is one of the first
+    documents to include ethnicity in the population numbers for Washington and Oregon
+    state. Of course, these numbers need to be read with extreme skepticism, but they
+    do provide us with an insight into the diversity of the Pacific Northwest at this
+    moment.<br><br>The second resource that informed my focus was the <strong>Northwest
+    Room</strong>, the archive of the Tacoma Public Library. Anna Trammell, the Lead
+    Historian for the Northwest Room and also the sponsor of this Capstone, curated
+    archival collections and oral history recordings which applied to my area of focus
+    and needed organization, finding aids and digitization.<br><br>These projects
+    helped me learn about the Norwegian American community through the <strong>Ancient
+    Order of Vikings</strong>, a fraternal organization for immigrants, and the Puyallup
+    Valley chapter of the <strong>Japanese American Citizens League</strong>, a nationwide
+    organization which played a crucial role in WWII incarceration. I also pulled
+    from the Northwest Room's <em>Bicentennial Oral History Project</em>, where digitized
+    recordings shed light on Puget Sound's Polish, Italian and Native American communities.<br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage153" title="Scrap">·
     Excerpt from the Ancient Order of Vikings Scrapbook</a>
   media:
