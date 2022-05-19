@@ -396,14 +396,14 @@ page_sections:
     alt_text: ''
   background_image: ''
   headline: <strong><span class="light">About the Author</span></strong>
-  content: <br>Andrew Weymouth is an archivist, exhibit designer and writer working
-    in Tacoma, WA, recently completing an MLIS degree from the University of Washington.
-    Published areas of interest include <a href="https://www-tandfonline-com.offcampus.lib.washington.edu/eprint/WI2IT6BTDCPNNWCPMGW5/full?target=10.1080/0361526X.2021.1985685"
+  content: <br>Andrew Weymouth is an archivist, exhibit designer and writer <br>working
+    in Tacoma, WA, recently completing an MLIS degree <br>from the University of Washington.
+    Published areas of interest <br>include <a href="https://www-tandfonline-com.offcampus.lib.washington.edu/eprint/WI2IT6BTDCPNNWCPMGW5/full?target=10.1080/0361526X.2021.1985685"
     title="methods">oral history</a>, <a href="https://mydigitalpublication.com/publication/?i=690860&amp;p=11&amp;ver=html5"
-    title="houston">displacement</a>, settler colonialism and the history of libraries
+    title="houston">displacement</a>, settler colonialism and the <br>history of libraries
     in the western United States.<br><br>Click here to view <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dbf1857ac8f124fc27c93/1652408241443/AWeymouth_Port.pdf"
-    title="port">Portfolio</a>, <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dc0f0038970558fab74ed/1652408642485/AWeymouth_CV.pdf"
-    title="cv">CV</a>, <a href="https://aweymo.github.io/VRAF_RC.2/" title="vraf">past
+    title="port">Portfolio</a>, <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/6286a8fc2ef46a33c74dfb75/1652992334746/AWeymouth_CV.pdf"
+    title="cv">CV,</a> <a href="https://aweymo.github.io/VRAF_RC.2/" title="vraf">past
     projects</a> and <a href="https://aweymo.github.io/cs_land" title="">site</a><br><br>or
     reach out directly:<br><br>andrewrainsweymouth@gmail.com
   cta:
