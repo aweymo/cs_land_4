@@ -382,9 +382,10 @@ page_sections:
     West"</a><br><br><strong>All images on this page are courtesy of the Tacoma Public
     Library''s Northwest Room</strong><br><br>Full list of credits and copyright statements
     for all materials included in the <a href="https://aweymo.github.io/CS.2/data.html"
-    title="CB_Data">CollectionBuilder Object Repository</a>.<br><br>A full list of
-    text mining resources for all community groups can be viewed <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dc07edc491202b71b1157/1652408448472/Full+list+of+Resources.pdf"
-    title="full">here</a>.'
+    title="CB_Data">CollectionBuilder Object Repository</a>.<br><br><strong>A full
+    list of text mining resources for all community groups can be viewed </strong><a
+    href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dc07edc491202b71b1157/1652408448472/Full+list+of+Resources.pdf"
+    title="full"><strong>here</strong></a><strong>.</strong>'
   media:
     image: "/uploads/uploads/2022/tw_01121888.png"
     alt_text: ''
