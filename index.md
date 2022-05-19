@@ -118,7 +118,8 @@ page_sections:
     leaders are quick to deflect and opine that "you can't put the genie back in the
     bottle," algorithms, and these collected works, have flesh and blood authors behind
     them, and those authors very often have commercial and economic interests behind
-    their creations.
+    their creations.<br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage028"
+    title="Illema">Illema Study Club, "American Problems," 1920</a>
   slug: purpose
   media:
     image: "/uploads/uploads/2022/ill030_b.png"
