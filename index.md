@@ -289,22 +289,6 @@ page_sections:
       This was not <strong>done to sanitize the material</strong>, rather to focus
       on the underlying industrial and economic elements that may have been influencing
       this media.
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong><span class="light">Findings and Resources</span></strong>
-  slug: f_r
-  content: <br><a href="https://aweymo.github.io/CS.2/findings.html" title="visit
-    here">Visit here</a> for a term frequency visualization as well as a full list
-    of early and later period text mining visualizations for each community group<br><br><a
-    href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dc07edc491202b71b1157/1652408448472/Full+list+of+Resources.pdf"
-    title="full">Visit here</a> for a full list of the 500+ text mining resources<br><br><br><br><br><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062" title="&quot;A
-    Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration, R.H. Case,
-    1915/03/31</a>
-  media:
-    image: "/uploads/uploads/2022/page-0001.png"
-    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/uploads/2022/ten_12011903_b.png"
@@ -327,6 +311,25 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: F_R
+  content: <br>Pursuing this project, I felt it was most important to focus on the
+    lived experience of community members who may have been impacted by this language,
+    so I spent a good time vetting, transcribing and hosting the oral history material.
+    I would love to spend more time focusing on industrialists during this period
+    to illuminate their active role in working with labor leaders and media outlets
+    to disseminate these concepts. Clarifying the roles of industrial and commercial
+    forces during this time would create very compelling historical connections between
+    the publication of materials and their echoing impact on these communities.<br><br><br><br><br><a
+    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062" title="&quot;A
+    Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration, R.H. Case,
+    1915/03/31</a>
+  media:
+    image: "/uploads/uploads/2022/page-0001.png"
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/uploads/2022/overview_80.gif"
