@@ -215,24 +215,8 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/c_06031886_c.png"
   headline: <strong><span class="light">Methodology</span></strong>
-  content: <strong><br>The following community groups were chosen for this research:<br><br></strong>Informed
-    by these archival collections, historic newspapers, periodicals and legacy oral
-    history recordings, I felt the following communities would be most appropriate
-    to research for this time period in Washington and Oregon state.<br><br>· <span
-    class="s1">Black<br></span>· <span class="s1">Chinese<br></span>· <span class="s1">Filipino<br></span>·
-    <span class="s1">Finnish<br></span>· <span class="s1">German<br></span>· <span
-    class="s1">Greek<br></span>· <span class="s1">Irish<br></span>· <span class="s1">Italian<br></span>·
-    <span class="s1">Japanese<br></span>· <span class="s1">Korean<br></span>· <span
-    class="s1">Native American<br></span>· <span class="s1">Norwegian<br></span>·
-    <span class="s1">Polish<br></span>· <span class="s1">South Asian</span><strong><br><br><br>These
-    communities were selected using two resources.</strong><br><br>The first was the
-    13th Federal Census of 1910. I chose this document because it is conveniently
-    centered in this project's time span, and it is one of the first documents to
-    include ethnicity in the population numbers for Washington and Oregon state. Of
-    course, these numbers need to be read with extreme skepticism, but they do provide
-    us with an insight into the diversity of the Pacific Northwest at this moment.<br><br><br><br><br><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage027" title="Tacoma
-    Coal Bunker"><strong>·</strong> "Tacoma Coal Bunker" Commerce, 1886/06/03</a>
+  content: <strong><br></strong><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage027"
+    title="Tacoma Coal Bunker"><strong>·</strong> "Tacoma Coal Bunker" Commerce, 1886/06/03</a>
   image:
     image: ''
     alt_text: ''
@@ -325,9 +309,9 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/ten_12011903_b.png"
   headline: <strong><span class="light">Future<br>Research</span></strong>
-  content: <br>Pursuing this project, I felt it was most important to focus on the
-    lived experience of community members who may have been impacted by this language,
-    so I spent a good time vetting, transcribing and hosting the oral history material.
+  content: Pursuing this project, I felt it was most important to focus on the lived
+    experience of community members who may have been impacted by this language, so
+    I spent a good time vetting, transcribing and hosting the oral history material.
     I would love to spend more time focusing on industrialists during this period
     to illuminate their active role in working with labor leaders and media outlets
     to disseminate these concepts. Clarifying the roles of industrial and commercial
