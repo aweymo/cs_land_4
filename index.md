@@ -311,11 +311,11 @@ page_sections:
   content: <br>Pursuing this project, I felt it was most important to focus on the
     lived experience of community members who may have been impacted by this language,
     so I spent a good time vetting, transcribing and hosting the oral history material.
-    I would love to spend more time focusing on industrialists during this period
-    to illuminate their active role in working with labor leaders and media outlets
-    to disseminate these concepts. Clarifying the roles of industrial and commercial
-    forces during this time would create very compelling historical connections between
-    the publication of materials and their echoing impact on these communities.<br><br><br><br><br><a
+    <br><br>I would love to spend more time focusing on industrialists during this
+    period to illuminate their active role in working with labor leaders and media
+    outlets to disseminate these concepts. Clarifying the roles of industrial and
+    commercial forces during this time would create very compelling historical connections
+    between the publication of materials and their echoing impact on these communities.<br><br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062" title="&quot;A
     Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration, R.H. Case,
     1915/03/31</a>
