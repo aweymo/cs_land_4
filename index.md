@@ -293,17 +293,9 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/ten_12011903_b.png"
   headline: <strong><span class="light">Future<br>Research</span></strong>
-  content: Pursuing this project, I felt it was most important to focus on the lived
-    experience of community members who may have been impacted by this language, so
-    I spent a good time vetting, transcribing and hosting the oral history material.
-    I would love to spend more time focusing on industrialists during this period
-    to illuminate their active role in working with labor leaders and media outlets
-    to disseminate these concepts. Clarifying the roles of industrial and commercial
-    forces during this time would create very compelling historical connections between
-    the publication of materials and their echoing impact on these communities.<br><br><br><br><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage139" title="&quot;Puyallup
-    Reservation Indian School&quot;"><strong>· </strong>"Puyallup Reservation Indian
-    School" The Evening News, 1903/01/12</a>
+  content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage139"
+    title="&quot;Puyallup Reservation Indian School&quot;"><strong>· </strong>"Puyallup
+    Reservation Indian School" The Evening News, 1903/01/12</a>
   image:
     image: ''
     alt_text: ''
