@@ -172,7 +172,7 @@ page_sections:
     1880-1930, sorted by relevance) yielded <strong>340</strong> results, as opposed
     to "colored labor" <strong>(165)</strong> and "black labor" <strong>(55)</strong>.
     That said, all of my descriptions for this community will use <strong>Black</strong>,
-    drawing description guidance from the <em>Archives for Black Lives in Philadelphia</em>.<br><br><a
+    drawing description guidance from the <em>Archives for Black Lives in Philadelphia</em>.<br><br><br><br><br><a
     href="https://aweymo.github.io/CS.2/item.html?id=maplanguage061" title="Arbeideren">Arbeideren,
     German Language Tacoma Newspaper, 1892-04-01</a>
   slug: Paraphrasing
