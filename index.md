@@ -52,14 +52,13 @@ page_sections:
   slug: head
   image: "/uploads/uploads/2022/as_021901_e.png"
   caption: ''
-- template: detail-content
-  block: text-1
-  headline: Andrew Weymouth
-  content: <p>2022 Capstone<br>University of Washington<br><br><br>Project sponsored
-    by Anna Trammell,<br>Archives and Special Collections Manager<br>of the Tacoma
-    Public Library's Northwest Room</p><p></p><p></p><p></p><p><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001"
-    title="&quot;Uncle Sam Sees The Danger&quot;"><strong>· </strong>"Uncle Sam Sees
-    The Danger"<br>The American Standard, 1901/02</a></p>
+- template: 1-column-text
+  block: one-column-1
+  content: <a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
+    Sam Sees The Danger&quot;"><strong>· </strong>"Uncle Sam Sees The Danger"<br>The
+    American Standard, 1901/02</a>
+  slug: credit
+  headline: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
