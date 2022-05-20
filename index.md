@@ -47,6 +47,11 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: full-width-media-element
+  block: media-1
+  slug: head
+  image: "/uploads/uploads/2022/as_021901_e.png"
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
