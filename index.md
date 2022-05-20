@@ -30,7 +30,7 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/uploads/2022/as_021901_10.png"
+  background_image: "/uploads/uploads/2022/as_021901_11.png"
   headline: <strong><span class="light">Mapping Language:<br></span></strong><span
     class="light">Representation of <br>Immigrant Communities <br>in the Pacific Northwest,
     <br>1880-1930</span>
