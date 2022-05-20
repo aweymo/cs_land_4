@@ -30,16 +30,13 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/uploads/2022/ill030_logo.png"
+  background_image: ''
   headline: <strong><span class="light">Mapping Language:<br></span></strong><span
     class="light">Representation of Immigrant Communities <br>in the Pacific Northwest,
     1880-1930</span>
-  content: <strong><br>Andrew Weymouth<br></strong>2022 Capstone<br>University of
+  content: "<strong><br>Andrew Weymouth<br></strong>2022 Capstone<br>University of
     Washington<br><br><br>Project sponsored by Anna Trammell, <br>Archives and Special
-    Collections Manager <br>of the Tacoma Public Library's Northwest Room<br><br><br><br><br><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
-    Sam Sees The Danger&quot;"><strong>· </strong>"Uncle Sam Sees The Danger"<br>The
-    American Standard, 1901/02</a>
+    Collections Manager <br>of the Tacoma Public Library's Northwest Room<br><br><br>"
   image:
     image: ''
     alt_text: ''
