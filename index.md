@@ -61,7 +61,7 @@ page_sections:
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/uploads/2022/ten_12091903_e.png"
+  background_image: "/uploads/uploads/2022/ten12091903.png"
   headline: <strong><span class="light">What is <br>Mapping Language?</span></strong>
   content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
     title="1903">· "1903 Prosperity Edition" Tacoma Evening News 1903/01/12</a>
