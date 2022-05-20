@@ -148,7 +148,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/uploads/2022/tt30101897.png"
-  headline: <strong><span class="light">Statement on Potentially Harmful Content</span></strong>
+  headline: <strong><span class="light">Statement on <br>Potentially Harmful <br>Content</span></strong>
   content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage152"
     title="Tacoma Tidende Front Page"><strong>· </strong>Tacoma Tidende, 1897/10/30</a>
   image:
