@@ -404,7 +404,7 @@ page_sections:
     in the western United States.<br><br>Click here to view <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dbf1857ac8f124fc27c93/1652408241443/AWeymouth_Port.pdf"
     title="port">Portfolio</a>, <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/6286a8fc2ef46a33c74dfb75/1652992334746/AWeymouth_CV.pdf"
     title="cv">CV,</a> <a href="https://aweymo.github.io/VRAF_RC.2/" title="vraf">past
-    projects</a> and <a href="https://aweymo.github.io/cs_land" title="">site</a><br><br>or
+    projects</a> and <a href="http://a-rains.squarespace.com/" title="site">site</a><br><br>or
     reach out directly:<br><br>andrewrainsweymouth@gmail.com
   cta:
     enabled: false
