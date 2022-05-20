@@ -81,6 +81,11 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/uploads/2022/ten12091903.png"
+  slug: C
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
