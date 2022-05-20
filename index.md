@@ -30,7 +30,7 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/uploads/2022/as_021901_e.png"
   headline: <strong><span class="light">Mapping Language:<br></span></strong><span
     class="light">Representation of Immigrant Communities <br>in the Pacific Northwest,
     1880-1930</span>
@@ -44,18 +44,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: full-width-media-element
-  block: media-1
-  slug: head
-  image: "/uploads/uploads/2022/as_021901_e.png"
-  caption: ''
-- template: 1-column-text
-  block: one-column-1
-  content: <a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage001" title="&quot;Uncle
-    Sam Sees The Danger&quot;"><strong>· </strong>"Uncle Sam Sees The Danger"<br>The
-    American Standard, 1901/02</a>
-  slug: credit
-  headline: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -81,11 +69,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/uploads/2022/ten12091903.png"
-  slug: C
-  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
