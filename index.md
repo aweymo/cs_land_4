@@ -30,7 +30,7 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/uploads/2022/as_021901_11.png"
+  background_image: "/uploads/uploads/2022/as_021901_10.png"
   headline: <strong><span class="light">Mapping Language:<br></span></strong><span
     class="light">Representation of <br>Immigrant Communities <br>in the Pacific Northwest,
     <br>1880-1930</span>
@@ -315,10 +315,11 @@ page_sections:
     period to illuminate their active role in working with labor leaders and media
     outlets to disseminate these concepts. Clarifying the roles of industrial and
     commercial forces during this time would create very compelling historical connections
-    between the publication of materials and their echoing impact on these communities.<br><br><br><br><br><a
-    href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062" title="&quot;A
-    Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration, R.H. Case,
-    1915/03/31</a>
+    between the publication of materials and their echoing impact on these communities.<br><br>Technically,
+    I would like to pursue making all of the elements of this work mobile and touchscreen
+    optimized. <br><br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage062"
+    title="&quot;A Paper on Immigration&quot;"><strong>· </strong>A Paper on Immigration,
+    R.H. Case, 1915/03/31</a>
   media:
     image: "/uploads/uploads/2022/page-0001.png"
     alt_text: ''
