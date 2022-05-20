@@ -32,8 +32,8 @@ page_sections:
   block: hero-2
   background_image: "/uploads/uploads/2022/as_021901_e.png"
   headline: <strong><span class="light">Mapping Language:<br></span></strong><span
-    class="light">Representation of <br>Immigrant <br>Communities <br>in the Pacific
-    <br>Northwest, 1880-1930</span>
+    class="light">Representation of <br>Immigrant Communities <br>in the Pacific Northwest,
+    <br>1880-1930</span>
   content: <strong><br>Andrew Weymouth<br></strong>2022 Capstone<br>University of
     Washington<br><br><br>Project sponsored by <br>Anna Trammell, <br>Archives and
     Special <br>Collections Manager <br>of the Tacoma Public <br>Library's Northwest
@@ -62,7 +62,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/uploads/2022/ten12091903.png"
-  headline: <strong><span class="light">What is <br>Mapping Language?</span></strong>
+  headline: <strong><span class="light">What is <br>Mapping <br>Language?</span></strong>
   content: <br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage165"
     title="1903">· "1903 Prosperity Edition" Tacoma Evening News 1903/01/12</a>
   image:
