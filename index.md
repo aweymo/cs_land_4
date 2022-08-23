@@ -402,10 +402,10 @@ page_sections:
     Published areas of interest <br>include <a href="https://www-tandfonline-com.offcampus.lib.washington.edu/eprint/WI2IT6BTDCPNNWCPMGW5/full?target=10.1080/0361526X.2021.1985685"
     title="methods">oral history</a>, <a href="https://mydigitalpublication.com/publication/?i=690860&amp;p=11&amp;ver=html5"
     title="houston">displacement</a>, settler colonialism and the <br>history of libraries
-    in the western United States.<br><br>Click here to view <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/627dbf1857ac8f124fc27c93/1652408241443/AWeymouth_Port.pdf"
-    title="port">Portfolio</a>, <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/6286a8fc2ef46a33c74dfb75/1652992334746/AWeymouth_CV.pdf"
+    in the western United States.<br><br>Click here to view <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/62f033b9c8fd1b760e8bcba4/1659909248508/AWeymouth_Port_sq.pdf"
+    title="port">Portfolio</a>, <a href="https://static1.squarespace.com/static/552c0f27e4b06d12aaa54427/t/62f034f02338285025a4d49e/1659909434038/AWeymouth_CV.pdf"
     title="cv">CV,</a> <a href="https://aweymo.github.io/VRAF_RC.2/" title="vraf">past
-    projects</a> and <a href="http://a-rains.squarespace.com/" title="site">site</a><br><br>or
+    projects</a> and <a href="http://aweymouth.squarespace.com/" title="site">site</a><br><br>or
     reach out directly:<br><br>andrewrainsweymouth@gmail.com
   cta:
     enabled: false
